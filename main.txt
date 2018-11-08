@@ -1,0 +1,2 @@
+# Block RollBack RX activation servers
+0.0.0.0 www.eazsolution.com
